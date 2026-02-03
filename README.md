@@ -71,5 +71,4 @@ This repository does not include a license file. Add one if you plan to publish 
 
 ## Contact
 
-Repository owner: Shikhar Mutta 
-Email: shikharmutta67@gmail.com
+Repository owner: Shikhar Mutta (shikharmutta67@gmail.com) 
